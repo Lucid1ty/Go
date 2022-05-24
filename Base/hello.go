@@ -11,4 +11,5 @@ func main() {
 	fmt.Println("Hello World!")
 	fmt.Println("Hello World!")
 	fmt.Println("Hello World!")
+	fmt.Println("你好，世界!")
 }
